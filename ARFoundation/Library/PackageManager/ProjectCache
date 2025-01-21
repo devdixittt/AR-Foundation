@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638729925996971363
-    m_Hash: 3307900816
+      ticks: 638730198437371078
+    m_Hash: 3484200332
   m_LockFileStatus:
     m_FilePath: C:/Users/devdi/OneDrive/Documents/AR-Foundation/ARFoundation/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638729925997017637
-    m_Hash: 509378829
+      ticks: 638730198437371078
+    m_Hash: 902353857
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
